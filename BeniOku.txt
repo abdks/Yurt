@@ -1,0 +1,2 @@
+Projenin database ini kurduktan sonra connection string'ini kopyalayıp SqlBaglantim
+classındaki ilgili yere yapıştırınız.

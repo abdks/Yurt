@@ -1,0 +1,6 @@
+Script Dosyasını MSSQL programında execute etmeden önce
+üstteki FILENAME dosya uzantılarını kendi bilgisyarınızdaki dosya uzantılarına göre değişitirmelisiniz.
+
+Dosya Uzantılarını değiştirdikten sonra,
+Script dosyasını çalıştırıken birkaç hata ekranda gözükebilir.
+Eğer çalıştırdıktan sonra  database, içinde table'lar ve database'ler ile oluşmuşsa herhangi bir sıkıntı olmayacaktır.

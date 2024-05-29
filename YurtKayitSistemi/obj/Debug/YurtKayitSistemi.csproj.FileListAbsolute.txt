@@ -1,0 +1,439 @@
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderler.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirIstatistik.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYoneticiDuzenle.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.ResolveComReference.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmNotEkle.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrenciRapor.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\EnvDTE.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\stdole.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CopyComplete
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\EnvDTE.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\stdole.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.ResolveComReference.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirIstatistik.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderler.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmNotEkle.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrenciRapor.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYoneticiDuzenle.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CopyComplete
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi - Kopya\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\Akay Yazılım\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\x86\SqlServerSpatial160.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\x64\SqlServerSpatial160.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\EnvDTE.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\stdole.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.ResolveComReference.cache
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirIstatistik.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderler.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmNotEkle.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrenciRapor.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYoneticiDuzenle.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CopyComplete
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\DellPc\Desktop\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.ResolveComReference.cache
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirIstatistik.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderler.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmNotEkle.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrenciRapor.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYoneticiDuzenle.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CopyComplete
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ilker\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.ResolveComReference.cache
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirIstatistik.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderler.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmNotEkle.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrenciRapor.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYoneticiDuzenle.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CopyComplete
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\DellPc\Desktop\C-Sharp_Yurt_Kayit_Sistemi_Form_Uygulamasi-main\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.ResolveComReference.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirIstatistik.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderler.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmNotEkle.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrenciRapor.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYoneticiDuzenle.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CopyComplete
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\DellPc\Desktop\github deneme\C-Sharp_Yurt_Otomasyonu-main (1)\C-Sharp_Yurt_Otomasyonu-main\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe.config
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.exe
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\YurtKayitSistemi.pdb
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\Interop.WMPLib.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.AssemblyReference.cache
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\Interop.WMPLib.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.ResolveComReference.cache
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAdminGiris.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmAnaForm.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmBolumler.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGelirIstatistik.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderGuncelle.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderler.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmGiderListesi.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmNotEkle.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOdemeler.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrDuzenle.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.frmOgrenciRapor.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrKayit.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmOgrListe.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmPersonel.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.FrmYoneticiDuzenle.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.Properties.Resources.resources
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.GenerateResource.cache
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CoreCompileInputs.cache
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.csproj.CopyComplete
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.exe
+C:\Users\ossma\OneDrive\Masaüstü\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\YurtKayitSistemi\obj\Debug\YurtKayitSistemi.pdb
